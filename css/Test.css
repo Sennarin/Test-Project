@@ -1,3 +1,10 @@
 body {
     width: 200px;
 }
+
+.blocks__block {
+    width: 100px;
+    height: 100px;
+    background: red;
+    margin-top: 50px;
+}
